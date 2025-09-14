@@ -1,0 +1,6 @@
+@WellnessHubAPI_HostAddress = http://localhost:5111
+
+GET {{WellnessHubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
